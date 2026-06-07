@@ -11,3 +11,8 @@ A Cheat Engine table for Hello Neighbor Alpha 1 with teleports, noclip, fly, and
 - `Arrow Keys` — Noclip
 - `F6 + Throw Flashlight` — Break Living Room Windows
 - `F7` — Teleport to circus
+
+## Download Mirrors
+GitHub — [Download]()
+GoFile — [Download](https://gofile.io/d/Yjfkm8)
+Mediafire — [Download](https://www.mediafire.com/file/xvwtpdwhxwrxx6h/HelloNeighborAlpha1.CT/file)
