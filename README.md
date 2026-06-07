@@ -12,4 +12,4 @@ A Cheat Engine table for Hello Neighbor Alpha 1 with teleports, noclip, fly, and
 - `F6 + Throw Flashlight` — Break Living Room Windows
 - `F7` — Teleport to circus
 
-<img width="402" height="335" alt="image" src="https://github.com/user-attachments/assets/e5f77f47-dd1e-4160-9e8e-50ffab02031b" />
+<img width="399" height="325" alt="image" src="https://github.com/user-attachments/assets/c34f2052-9c25-4049-bc34-899587503a85" />
