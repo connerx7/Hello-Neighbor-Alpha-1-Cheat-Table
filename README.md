@@ -13,8 +13,8 @@ A Cheat Engine table for Hello Neighbor Alpha 1 with teleports, noclip, fly, and
 - `F7` — Teleport to circus
 
 ## Download Mirrors
-GitHub — [Download]()
+GitHub — [Download](https://github.com/connerx7/Hello-Neighbor-Alpha-1-Cheat-Table/releases/tag/Cheat-Table)
 
 GoFile — [Download](https://gofile.io/d/Yjfkm8)
 
-Mediafire — [Download](https://www.mediafire.com/file/xvwtpdwhxwrxx6h/HelloNeighborAlpha1.CT/file)
+MediaFire — [Download](https://www.mediafire.com/file/xvwtpdwhxwrxx6h/HelloNeighborAlpha1.CT/file)
